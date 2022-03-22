@@ -1,0 +1,13 @@
+//#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#
+// Songs
+//#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#
+// Mario Death (Tempo: 240)
+static Note_t MarioDeath[] = {
+	{BoS, 240}, {VolLvl, 99},
+	{CN5, 32}, {CS5, 32}, {DN5, 16}, {N00, 4},
+	{N00, 4}, {BN4, 8}, {FN5, 8}, {N00, 8}, {FN5, 8}, {FN5, 6}, {EN5, 6},
+	{DN5, 6}, {CN5, 8}, {EN4, 8}, {N00, 8}, {EN4, 8}, {CN4, 8}, {N00, 2},
+	{CN5, 4}, {N00, 8}, {GN4, 8}, {N00, 4}, {EN4, 4}, {AN5, 3}, {BN5, 3},
+	{BN5, 3}, {GS4, 3}, {AS5, 3}, {GS4, 3}, {GN4, 2}, {N00, 2},
+	{EoS, 240},
+};

@@ -1,0 +1,11 @@
+//#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#
+// Songs
+//#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#
+// Imperial Death March (Tempo: 120)
+static Note_t ImperialMarch[] = {
+	{BoS, 120}, {VolLvl, 99},
+	{GN4, 4}, {GN4, 4}, {GN4, 4}, {DS4, 6}, {AS4, 16}, {GN4, 4}, {DS4, 6},
+	{AS4, 16}, {GN4, 2}, {DN5, 4}, {DN5, 4}, {DN5, 4}, {DS5, 6}, {AS4, 16},
+	{FS4, 4}, {DS4, 6}, {AS4, 16}, {GN4, 4}, {N00, 4},
+	{EoS, 120},
+};

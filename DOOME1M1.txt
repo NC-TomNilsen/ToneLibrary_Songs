@@ -1,0 +1,18 @@
+//#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#
+// Songs
+//#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#b#
+// E1M1: At Doom's gate (Tempo: 254 (MAX))
+static Note_t DOOM[] = {
+	{BoS, 254}, {VolLvl, 99},
+	{EN3, 8}, {EN3, 8}, {EN4, 8}, {EN3, 8}, {EN3, 8}, {DN4, 8}, {EN3, 8}, {EN3, 8},
+	{CN4, 8}, {EN3, 8}, {EN3, 8}, {FS3, 8}, {EN3, 8}, {EN3, 8}, {GN3, 8}, {AN4, 8},
+	{EN3, 8}, {EN3, 8}, {EN4, 8}, {EN3, 8}, {EN3, 8}, {DN4, 8}, {EN3, 8}, {EN3, 8},
+	{CN4, 8}, {EN3, 8}, {EN3, 8}, {FS3, 8}, {FS3, 2},
+	{EN3, 8}, {EN3, 8}, {EN4, 8}, {EN3, 8}, {EN3, 8}, {DN4, 8}, {EN3, 8}, {EN3, 8},
+	{CN4, 8}, {EN3, 8}, {EN3, 8}, {FS3, 8}, {EN3, 8}, {EN3, 8}, {GN3, 8}, {AN4, 8},
+	{EN3, 8}, {EN3, 8}, {EN4, 8}, {EN3, 8}, {EN3, 8}, {DN4, 8}, {EN3, 8}, {EN3, 8},
+	{FN4, 16}, {EN4, 16}, {N00, 128}, {DN4, 48}, {FN4, 48}, {AN5, 48}, {FS5, 48},
+	{FN4, 48}, {EN4, 48}, {FN4, 48},  {FS4, 48}, {AN5, 48}, {BN5, 48}, {N00, 128},
+	{AN5, 48}, {FS4, 48}, {FN4, 48},  {EN4, 48},
+	{EoS, 225},
+};

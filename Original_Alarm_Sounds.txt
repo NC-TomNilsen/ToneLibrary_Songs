@@ -1,0 +1,17 @@
+static Note_t _highAlert[] = {
+	{BoS, 180}, {VolLvl, 100},
+	{AN5, 4}, {AN6, 6}, {N00, 4},
+	{EoS, 180},
+};
+
+static Note_t _mediumAlert[] = {
+	{BoS, 254}, {VolLvl, 100},
+	{BN6, 64}, {AS6, 64}, {AN6, 64}, {GS5, 64}, {GN5, 64}, {FS5, 64}, {FN5, 64}, {N00, 1},
+	{EoS, 254},
+};
+
+static Note_t _lowAlert[] = {
+	{BoS, 200}, {VolLvl, 100},
+	{AN6, 6}, {AN6, 6}, {AN6, 6}, {N00, 1},
+	{EoS, 200},
+};
