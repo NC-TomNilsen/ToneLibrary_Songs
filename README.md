@@ -1,5 +1,4 @@
 # ToneLibrary_Songs
-* Introduction *
 Due to copyright laws, we probably can't put most of these songs in our devices. Despite it being unlikely that someone would hear the song and decide to
 sue, we will just play it safe and only put royalty-free, copyright-free music in our devices.
 
